@@ -4,6 +4,7 @@ and if you have none:
 -go to your sounds.json in the Minecraft folder
 paste this into it
 
+{
 SOUND_EVENT: {
         "sounds":[
           {
@@ -17,6 +18,7 @@ SOUND_EVENT: {
          }
       ]
    }
+}
         if you want more than 2 songs:
 put a comma at the bottom curly bracket
 SOUND_EVENT: {
@@ -32,6 +34,7 @@ SOUND_EVENT: {
          }
       ]
    }
+
 make a new line under it and add
 
           {
