@@ -1,0 +1,13 @@
+SOUND_EVENT: {
+        "sounds":[
+          {
+              "name": Example1,
+              "stream": true
+          },
+          {
+              "name": Example2,
+              "stream": true
+          }
+         }
+      ]
+   }
